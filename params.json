@@ -1,0 +1,122 @@
+[
+    {
+        "condition": 0,
+        "choice_set": 1,
+        "A_self": 3290,
+        "A_other": 210,
+        "A_total": 3500,
+        "B_self": 2800,
+        "B_other": 700,
+        "B_total": 3500
+    },
+    {
+        "condition": 0,
+        "choice_set": 2,
+        "A_self": 3290,
+        "A_other": 210,
+        "A_total": 3500,
+        "B_self": 2310,
+        "B_other": 1190,
+        "B_total": 3500
+    },
+    {
+        "condition": 0,
+        "choice_set": 3,
+        "A_self": 3290,
+        "A_other": 210,
+        "A_total": 3500,
+        "B_self": 1820,
+        "B_other": 1680,
+        "B_total": 3500
+    },
+    {
+        "condition": 0,
+        "choice_set": 4,
+        "A_self": 2800,
+        "A_other": 700,
+        "A_total": 3500,
+        "B_self": 2310,
+        "B_other": 1190,
+        "B_total": 3500
+    },
+    {
+        "condition": 0,
+        "choice_set": 5,
+        "A_self": 2800,
+        "A_other": 700,
+        "A_total": 3500,
+        "B_self": 1820,
+        "B_other": 1680,
+        "B_total": 3500
+    },
+    {
+        "condition": 0,
+        "choice_set": 6,
+        "A_self": 2310,
+        "A_other": 1190,
+        "A_total": 3500,
+        "B_self": 1820,
+        "B_other": 1680,
+        "B_total": 3500
+    },
+    {
+        "condition": 0,
+        "choice_set": 7,
+        "A_self": 6110,
+        "A_other": 390,
+        "A_total": 6500,
+        "B_self": 5200,
+        "B_other": 1300,
+        "B_total": 6500
+    },
+    {
+        "condition": 0,
+        "choice_set": 8,
+        "A_self": 6110,
+        "A_other": 390,
+        "A_total": 6500,
+        "B_self": 4290,
+        "B_other": 2210,
+        "B_total": 6500
+    },
+    {
+        "condition": 0,
+        "choice_set": 9,
+        "A_self": 6110,
+        "A_other": 390,
+        "A_total": 6500,
+        "B_self": 3380,
+        "B_other": 3120,
+        "B_total": 6500
+    },
+    {
+        "condition": 0,
+        "choice_set": 10,
+        "A_self": 5200,
+        "A_other": 1300,
+        "A_total": 6500,
+        "B_self": 4290,
+        "B_other": 2210,
+        "B_total": 6500
+    },
+    {
+        "condition": 0,
+        "choice_set": 11,
+        "A_self": 5200,
+        "A_other": 1300,
+        "A_total": 6500,
+        "B_self": 3380,
+        "B_other": 3120,
+        "B_total": 6500
+    },
+    {
+        "condition": 0,
+        "choice_set": 12,
+        "A_self": 4290,
+        "A_other": 2210,
+        "A_total": 6500,
+        "B_self": 3380,
+        "B_other": 3120,
+        "B_total": 6500
+    }
+]
