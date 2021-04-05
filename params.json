@@ -121,7 +121,7 @@
     },
     {
         "condition": 1,
-        "choice_set": 1,
+        "choice_set": 13,
         "A_other": 3290,
         "A_self": 210,
         "A_total": 3500,
@@ -131,7 +131,7 @@
     },
     {
         "condition": 1,
-        "choice_set": 2,
+        "choice_set": 14,
         "A_other": 3290,
         "A_self": 210,
         "A_total": 3500,
@@ -141,7 +141,7 @@
     },
     {
         "condition": 1,
-        "choice_set": 3,
+        "choice_set": 15,
         "A_other": 3290,
         "A_self": 210,
         "A_total": 3500,
@@ -151,7 +151,7 @@
     },
     {
         "condition": 1,
-        "choice_set": 4,
+        "choice_set": 16,
         "A_other": 2800,
         "A_self": 700,
         "A_total": 3500,
@@ -161,7 +161,7 @@
     },
     {
         "condition": 1,
-        "choice_set": 5,
+        "choice_set": 17,
         "A_other": 2800,
         "A_self": 700,
         "A_total": 3500,
@@ -171,7 +171,7 @@
     },
     {
         "condition": 1,
-        "choice_set": 6,
+        "choice_set": 18,
         "A_other": 2310,
         "A_self": 1190,
         "A_total": 3500,
@@ -181,7 +181,7 @@
     },
     {
         "condition": 1,
-        "choice_set": 7,
+        "choice_set": 19,
         "A_other": 6110,
         "A_self": 390,
         "A_total": 6500,
@@ -191,7 +191,7 @@
     },
     {
         "condition": 1,
-        "choice_set": 8,
+        "choice_set": 20,
         "A_other": 6110,
         "A_self": 390,
         "A_total": 6500,
@@ -201,7 +201,7 @@
     },
     {
         "condition": 1,
-        "choice_set": 9,
+        "choice_set": 21,
         "A_other": 6110,
         "A_self": 390,
         "A_total": 6500,
@@ -211,7 +211,7 @@
     },
     {
         "condition": 1,
-        "choice_set": 10,
+        "choice_set": 22,
         "A_other": 5200,
         "A_self": 1300,
         "A_total": 6500,
@@ -221,7 +221,7 @@
     },
     {
         "condition": 1,
-        "choice_set": 11,
+        "choice_set": 23,
         "A_other": 5200,
         "A_self": 1300,
         "A_total": 6500,
@@ -231,7 +231,7 @@
     },
     {
         "condition": 1,
-        "choice_set": 12,
+        "choice_set": 24,
         "A_other": 4290,
         "A_self": 2210,
         "A_total": 6500,
