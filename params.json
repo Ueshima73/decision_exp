@@ -118,5 +118,125 @@
         "B_self": 3380,
         "B_other": 3120,
         "B_total": 6500
+    },
+    {
+        "condition": 1,
+        "choice_set": 1,
+        "A_other": 3290,
+        "A_self": 210,
+        "A_total": 3500,
+        "B_other": 2800,
+        "B_self": 700,
+        "B_total": 3500
+    },
+    {
+        "condition": 1,
+        "choice_set": 2,
+        "A_other": 3290,
+        "A_self": 210,
+        "A_total": 3500,
+        "B_other": 2310,
+        "B_self": 1190,
+        "B_total": 3500
+    },
+    {
+        "condition": 1,
+        "choice_set": 3,
+        "A_other": 3290,
+        "A_self": 210,
+        "A_total": 3500,
+        "B_other": 1820,
+        "B_self": 1680,
+        "B_total": 3500
+    },
+    {
+        "condition": 1,
+        "choice_set": 4,
+        "A_other": 2800,
+        "A_self": 700,
+        "A_total": 3500,
+        "B_other": 2310,
+        "B_self": 1190,
+        "B_total": 3500
+    },
+    {
+        "condition": 1,
+        "choice_set": 5,
+        "A_other": 2800,
+        "A_self": 700,
+        "A_total": 3500,
+        "B_other": 1820,
+        "B_self": 1680,
+        "B_total": 3500
+    },
+    {
+        "condition": 1,
+        "choice_set": 6,
+        "A_other": 2310,
+        "A_self": 1190,
+        "A_total": 3500,
+        "B_other": 1820,
+        "B_self": 1680,
+        "B_total": 3500
+    },
+    {
+        "condition": 1,
+        "choice_set": 7,
+        "A_other": 6110,
+        "A_self": 390,
+        "A_total": 6500,
+        "B_other": 5200,
+        "B_self": 1300,
+        "B_total": 6500
+    },
+    {
+        "condition": 1,
+        "choice_set": 8,
+        "A_other": 6110,
+        "A_self": 390,
+        "A_total": 6500,
+        "B_other": 4290,
+        "B_self": 2210,
+        "B_total": 6500
+    },
+    {
+        "condition": 1,
+        "choice_set": 9,
+        "A_other": 6110,
+        "A_self": 390,
+        "A_total": 6500,
+        "B_other": 3380,
+        "B_self": 3120,
+        "B_total": 6500
+    },
+    {
+        "condition": 1,
+        "choice_set": 10,
+        "A_other": 5200,
+        "A_self": 1300,
+        "A_total": 6500,
+        "B_other": 4290,
+        "B_self": 2210,
+        "B_total": 6500
+    },
+    {
+        "condition": 1,
+        "choice_set": 11,
+        "A_other": 5200,
+        "A_self": 1300,
+        "A_total": 6500,
+        "B_other": 3380,
+        "B_self": 3120,
+        "B_total": 6500
+    },
+    {
+        "condition": 1,
+        "choice_set": 12,
+        "A_other": 4290,
+        "A_self": 2210,
+        "A_total": 6500,
+        "B_other": 3380,
+        "B_self": 3120,
+        "B_total": 6500
     }
 ]
